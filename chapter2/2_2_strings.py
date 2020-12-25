@@ -123,3 +123,8 @@ o9 = a.rstrip()
     #replace string/word
 o10 = a.replace("Hello", "hehe")
 print(o10)
+
+#Split
+p = "Eh is a Canadian word-ish"
+p1 = p.split(" ")
+print(p1)
