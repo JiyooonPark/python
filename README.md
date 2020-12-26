@@ -1,5 +1,6 @@
 # python-basics
 repo for practicing python 
+using https://wikidocs.net/book/1
 
 ---
 ###chapter 2
