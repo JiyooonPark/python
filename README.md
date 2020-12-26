@@ -16,4 +16,13 @@ repo for practicing python
     - if
     - while
     - for
-
+---
+###chapter 4
+    - functions
+    - inputs & outputs
+    - file read & write
+---
+###chapter 5
+    - class
+    - modules
+    - package
