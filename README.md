@@ -30,3 +30,8 @@ using https://wikidocs.net/book/1
     - class
     - modules
     - package
+
+---
+### chapter 7
+    - regular expressions
+    - basic & advanced
